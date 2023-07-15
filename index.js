@@ -31,5 +31,5 @@ app.get('/recipes/:genre/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('glsk', port);
+    console.log('gsk', port);
 })
